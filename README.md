@@ -2,10 +2,19 @@
 CloudApp  homework challenge
 
 requires: Node js
+
 code: javascript
+
 library: puppeteer js
 
+
+Install puppeteer library (not included in repo)
+
+npm i puppeteer
+
+
 Run tests:  
+
 Node cloudapp.js
 
 
